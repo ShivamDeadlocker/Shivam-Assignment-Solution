@@ -1,6 +1,4 @@
-{
-  "homepage": "https://ShivamDeadlocker.github.io/TotemInteractiveAssignment",
-  "name": "responsive-grid",
+{ "name": "responsive-grid",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,14 +8,12 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^4.2.4"
   },
-"scripts": {
-  "start": "react-scripts start",
-  "build": "react-scripts build",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
-  "test": "react-scripts test",
-  "eject": "react-scripts eject"
-},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
