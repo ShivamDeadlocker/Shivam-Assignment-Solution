@@ -15,8 +15,8 @@
 <h4>Output on Mobile</h4>
 <img src="Part 2 - Solution Output/Mobile_Output.png">
 
-<p>I have deployed the react app on git hub below is the link.</p>
-<link>https://shivamdeadlocker.github.io/TotemInteractiveAssignment/</link>
+<p>I have deployed the react app on <b>netlify.com</b> below is the link.</p>
+<link>https://totem-interactive-responsive-gallery.netlify.app//</link>
 
 
   
